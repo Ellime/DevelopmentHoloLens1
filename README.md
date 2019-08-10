@@ -5,6 +5,8 @@ Last updated: 8/2/2019
 # Intro
 This document aims to lessen the challenge of developing for the Microsoft HoloLens by suggesting resources and clarifying areas of confusion. Official guides by Microsoft and unofficial resources are linked and additional notes are included. This document covers the HoloLens 1 and is not entirely applicable to the HoloLens 2.
 
+Currently, with Microsoft halting development on the HoloLens 1 and HoloLens 2 not yet ready, this document serves as an up-to-date resource for mixed reality developers.
+
 Currently this document only covers mixed reality development with Unity, primarily on a Long-Term Support (LTS) stream, and a physical HoloLens 1 device.
 
 Changes and contributors are viewable on [GitHub](https://github.com/Ellime/DevelopmentHoloLens1).
