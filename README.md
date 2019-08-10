@@ -9,7 +9,7 @@ Currently, with Microsoft halting development on the HoloLens 1 and HoloLens 2 n
 
 Currently this document only covers mixed reality development with Unity, primarily on a Long-Term Support (LTS) stream, and a physical HoloLens 1 device.
 
-Changes and contributors are viewable on [GitHub](https://github.com/Ellime/DevelopmentHoloLens1).
+Changes and contributors are viewable on [GitHub](https://github.com/Ellime/DevelopmentHoloLens1). The direct link to this guide is [https://ellime.github.io/GuideToHoloLens1/](https://ellime.github.io/GuideToHoloLens1/).
 
 This document is not sponsored by or affiliated with Microsoft, Unity Technologies, or any of their affiliates.
 
